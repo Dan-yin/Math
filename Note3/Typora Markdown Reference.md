@@ -17,3 +17,5 @@
 [^注释]: input description here
 
 `***`和`---`在空白行会产生分割线
+
+`[TOC]`会生成目录
